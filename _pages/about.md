@@ -10,13 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+O1 857 2O7 7912</p>
-    <p>jglodo at gm**l.com</p>
+    <p>jglodo gmail</p>
     <p>Watertown, MA, USA</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a physicist with background in radiation detection, material development, and basic software development.  Beside science I am interested in finance and business development.  

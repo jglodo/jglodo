@@ -100,7 +100,16 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "icon": "fa fa-coins",
+      "name": "Finance/Volatility"
+    },
+    {
+      "icon": "fa fa-brain",
+      "name": "ML/AI"
+    }
+  ],
   "references": [],
   "projects": []
 }
