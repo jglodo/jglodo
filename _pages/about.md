@@ -23,4 +23,6 @@ I am a physicist with background in radiation detection, material development, a
 
 I hold a director's position at Radiation Monitoring Devices, Inc. working on development of novel scintillating materials and scintillator based detectors/detection systems.  
 
+Over the years, I managed multiple research projects from DOE, NIH, DHS, and DOD. 
+
 I am looking for opportunies for collaborations related to material development and their commercial applications.  

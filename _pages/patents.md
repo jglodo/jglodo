@@ -2,7 +2,7 @@
 layout: page
 permalink: /patents/
 title: patents
-description: patents in reversed chronological order. 
+description: patents in reversed chronological order.  automatically generated, some duplicates.
 nav: true
 nav_order: 1
 ---
