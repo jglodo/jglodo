@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Jarek Glodo",
+    "name": "Jarek Glodo, Ph.D.",
     "label": "Scientist",
     "image": "",
     "email": "jglodo@gmail.com",
@@ -33,7 +33,19 @@
       "highlights": [
         "New Scintillators"
       ]
+    },
+    {
+      "name": "Boston University, Chemistry",
+      "position": "Research Assistant",
+      "url": "https://www.bu.edu",
+      "startDate": "1995",
+      "endDate": "1998",
+      "summary": "Experimental Evaluation of Scintillators.",
+      "highlights": [
+        "LuAP", "Charge Traps"
+      ]
     }
+
   ],
   "volunteer": [],
   "education": [
@@ -60,7 +72,24 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [ "Proposal Writing", "Project Maanagement", "Data Analysis",  "Python"],
+  "skills": [ 
+    {
+      "icon": "fa fa-users",
+      "name": "Project Management"
+    },
+    {
+      "icon": "fa fa-pencil",
+      "name": "Proposal Writing"
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "name": "Data Analysis"
+    },
+    {
+      "icon": "fa fa-terminal",
+      "name": "Python"
+    }
+  ],
   "languages": [
     {
       "language": "Polish",
