@@ -9,8 +9,8 @@ profile:
   image: me_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+O1 857 2O7 7912</p>
-    <p>jglodo gmail</p>
+    <p>+O1 857 2O7 7912</p><br>
+    <p>jglodo gmail</p><br>
     <p>Watertown, MA, USA</p>
 
 news: false  # includes a list of news items
